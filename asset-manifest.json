@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f4ff7860.css",
+    "main.js": "/Portfolio/static/js/main.bb30e286.js",
+    "static/media/Natours-CSS.png": "/Portfolio/static/media/Natours-CSS.50bb8dd2260c751fef8a.png",
+    "static/media/Natours.png": "/Portfolio/static/media/Natours.47c1dd11dc7732b7055d.png",
+    "static/media/Forkify.png": "/Portfolio/static/media/Forkify.f0bcf5d8aef3e33b7347.png",
+    "static/media/Specs99.png": "/Portfolio/static/media/Specs99.b2bc69574698bd7261ee.png",
+    "static/media/Omnifood.png": "/Portfolio/static/media/Omnifood.a0b6c69ecd3bfa6628bc.png",
+    "static/media/Nexter.png": "/Portfolio/static/media/Nexter.848a1a868ac45d2b1bee.png",
+    "static/media/Trillo.png": "/Portfolio/static/media/Trillo.614e4938cc4acabfa22f.png",
+    "static/media/profile-picture.png": "/Portfolio/static/media/profile-picture.236f0098e7f27d921910.png",
+    "static/media/Bankist.png": "/Portfolio/static/media/Bankist.8680b6d88d060346cef9.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f4ff7860.css.map": "/Portfolio/static/css/main.f4ff7860.css.map",
+    "main.bb30e286.js.map": "/Portfolio/static/js/main.bb30e286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ff7860.css",
+    "static/js/main.bb30e286.js"
+  ]
+}
